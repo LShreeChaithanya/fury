@@ -1,1 +1,1 @@
-print("Guna is godzilla akka")
+print("Guna is godzilla anna")
